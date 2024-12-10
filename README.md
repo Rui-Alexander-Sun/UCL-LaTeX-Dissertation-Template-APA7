@@ -18,6 +18,7 @@ A $\LaTeX$ template for Dissertation or Essays at UCL PALS  in APA7 style
 2. Automatically generated Table of Contents (with optional hyperlinks)
 3. Automatically generated List of Figures (with optional hyperlinks)
 4. Templates of figures, three part tables and a table of demographic information
+5. Automatically generated References
 
 ## How To Use
 
