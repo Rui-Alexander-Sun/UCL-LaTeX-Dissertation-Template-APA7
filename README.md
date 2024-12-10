@@ -32,7 +32,7 @@ To edit online using [overleaf](https://www.overleaf.com/), download `Source Cod
 
 ## Basic commands
 * Headings
-  * Level 1, Centering, \section{}
+  * Level 1, centering, \section{}
   * Level 2, left-justified, \subsection{}
   * Level 3, left-justified & italic, \subsubsection{}
   * Level 4, inline, \subheading{}
