@@ -28,6 +28,21 @@ To edit online using [overleaf](https://www.overleaf.com/), download `Source Cod
 3. Select the zip you downloaded before
 4. `Menu` → `Settings` → `Compiler`, choose `XeLaTeX`
 5. Choose `main.tex` file, then click `compile`
+ 
+## Before you start writing
+
+Remeber to edit the basic information in the info.tex!
+
+## Basic commands
+* Headings
+  * Level 1, Centering, \section{}
+  * Level 2, left-justified, \subsection{}
+  * Level 3, left-justified & italic, \subsubsection{}
+  * Level 4, inline, \subheading{}
+  * Level 5, inline & italic, \subsubheading{}
+* Citation
+  * parencite, \parencite{}
+  * textcite, \textcite{}
 
 ## Acknowledgements
 
