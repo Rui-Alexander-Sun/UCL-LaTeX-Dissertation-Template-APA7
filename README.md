@@ -33,14 +33,14 @@ To edit online using [overleaf](https://www.overleaf.com/), download `Source Cod
 
 ## Basic commands
 * Headings
-  * Level 1, centering, \section{}
-  * Level 2, left-justified, \subsection{}
-  * Level 3, left-justified & italic, \subsubsection{}
-  * Level 4, inline, \subheading{}
-  * Level 5, inline & italic, \subsubheading{}
+  * Level 1, centering, `\section{}`
+  * Level 2, left-justified, `\subsection{}`
+  * Level 3, left-justified & italic, `\subsubsection{}`
+  * Level 4, inline, `\subheading{}`
+  * Level 5, inline & italic, `\subsubheading{}`
 * Citation
-  * parencite, \parencite{}
-  * textcite, \textcite{}
+  * parencite, (Tom et al., 2024), `\parencite{}`
+  * textcite, Tom et al. (2024), `\textcite{}`
 
 ## Acknowledgements
 
