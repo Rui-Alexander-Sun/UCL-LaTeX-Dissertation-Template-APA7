@@ -1,6 +1,6 @@
 # UCL $\LaTeX$ Dissertation Template APA7
 
-A $\LaTeX$ essay template for Dissertation or Essays at UCL PALS  in APA7 style
+A $\LaTeX$ template for Dissertation or Essays at UCL PALS  in APA7 style
 
 ## Format
 
